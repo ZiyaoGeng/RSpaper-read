@@ -17,7 +17,7 @@
 |      Learning and Reasoning on Graph for Recommendation      |     CIKM     |  2019  |
 |  Graph Learning Approaches to Recommender Systems: A Review  |              |  2020  |
 
-
+&nbsp;
 
 ## 模型
 
@@ -34,7 +34,7 @@
 | Multi-Interest Network with Dynamic Routing for Recommendation  at Tmall \| **MIND** |     CIKM     | 2019 | DL、Multi Interest |
 | Controllable Multi-Interest Framework for Recommendation \| **ComiRec** |     KDD      | 2020 | DL、Multi Interest |
 
-
+&nbsp;
 
 ### 粗排（CTR）
 
@@ -56,7 +56,7 @@
 | Deep Interest Evolution Network for Click-Through Rate Prediction ｜ **DIEN** |     AAAI     | 2019 | DL、RNN、Interest |
 | Deep Match to Rank Model for Personalized Click-Through Rate Prediction \| **DMR** |     AAAI     | 2020 |   Deep Learning   |
 
-
+&nbsp;
 
 ### 精排（多任务）
 
@@ -64,7 +64,7 @@
 | :----------------------------------------------------------: | :----------: | :--: |
 | Entire Space Multi-Task Model: An Effective Approach for Estimation Post-Click Conversion Rate \| **ESMM** |    SIGIR     | 2018 |
 
-
+&nbsp;
 
 ## 其他
 
