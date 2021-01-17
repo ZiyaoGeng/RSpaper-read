@@ -23,20 +23,43 @@
 
 ### 召回
 
-|                            Paper                             | Published in | Time |      Category      |
-| :----------------------------------------------------------: | :----------: | :--: | :----------------: |
-| Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model \| **SVD++** |     KDD      | 2008 |      General       |
-| Matrix Factorization Techniques for Recommender Systems\|**MF** |     IEEE     | 2009 |      General       |
-| Deep Neural Networks for YouTube Recommendations \| **DNN Youtube** |     ACM      | 2016 |   Deep Learning    |
-| Session-based Recommendation with Recurrent Neural Networks \| **GRU4Rec** |     ICLR     | 2016 |      DL、RNN       |
-|   Neural network-based Collaborative Filtering \| **NCF**    |     WWW      | 2017 |       DL、CF       |
-|    Self-Attentive Sequential Recommendation \| **SASRec**    |     ICDM     | 2018 |   Deep Learning    |
-| Multi-Interest Network with Dynamic Routing for Recommendation  at Tmall \| **MIND** |     CIKM     | 2019 | DL、Multi Interest |
-| Controllable Multi-Interest Framework for Recommendation \| **ComiRec** |     KDD      | 2020 | DL、Multi Interest |
+|                            Paper                             | Published in | Time |   Category    |
+| :----------------------------------------------------------: | :----------: | :--: | :-----------: |
+| Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model \| **SVD++** |     KDD      | 2008 |    General    |
+| Matrix Factorization Techniques for Recommender Systems\|**MF** |     IEEE     | 2009 |    General    |
+| Deep Neural Networks for YouTube Recommendations \| **DNN Youtube** |     ACM      | 2016 | Deep Learning |
+|   Neural network-based Collaborative Filtering \| **NCF**    |     WWW      | 2017 |    DL、CF     |
 
 &nbsp;
 
-### 粗排（CTR）
+### Sequence System
+
+|                            Paper                             | Published in | Time |      Category      |
+| :----------------------------------------------------------: | :----------: | :--: | :----------------: |
+| Factorizing personalized markov chains for next-basket recommendation \| **FMPC** |     KDD      | 2010 |      General       |
+| Learning hierarchical representation model for nextbasket recommendation\|**HRM** |     IEEE     | 2015 |      General       |
+| Translation-based recommendation: A scalable method for modeling sequential behavior \| **TransRec** |    IJCAI     | 2018 |   Deep Learning    |
+| Session-based Recommendation with Recurrent Neural Networks \| **GRU4Rec** |     ICLR     | 2016 |        RNN         |
+| Recurrent neural networks with top-k gains for session-based recommendations \| **GRU4Rec+** |     WWW      | 2017 |       DL、CF       |
+| Personalized top-n sequential recommendation via convolutional sequence embedding \| **Caser** |     ICDM     | 2018 |   Deep Learning    |
+| Session-based recommendation with graph neural networks｜**SR-GNN** |     AAAI     | 2019 |        GNN         |
+|    Self-Attentive Sequential Recommendation \| **SASRec**    |     ICDM     | 2018 |   Deep Learning    |
+| STAMP: short-term attention/memory priority model for session-based recommendation｜**STAMP** |     KDD      | 2018 |     Attention      |
+| Next item recommendation with self-attentive metric learning｜**AttRec** |     AAAI     | 2019 |     Attention      |
+| BERT4Rec: Sequential recommendation with bidirectional encoder representations from transformer｜**BERT4Rec** |              | 2019 |     Attention      |
+| FISSA: fusing item similarity models with self-attention networks for sequential recommendation｜**FISSA** |    RecSys    | 2020 |     Attention      |
+| SSE-PT: Sequential recommendation via personalized transforme｜**SSE-PT** |     KDD      | 2020 |     Attention      |
+| Time Interval Aware Self-Attention for Sequential Recommendation｜**TiSASRec** |     WSDM     | 2020 |      Att+time      |
+| Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation｜**CTA** |     WWW      | 2020 |      Att+time      |
+| MEANTIME: Mixture of Attention Mechanisms with Multi-temporal Embeddings for Sequential Recommendation｜**MEANTIME** |    RecSys    | 2020 |      Att+time      |
+| Multi-Interest Network with Dynamic Routing for Recommendation  at Tmall \| **MIND** |     CIKM     | 2019 | DL、Multi Interest |
+| Controllable Multi-Interest Framework for Recommendation \| **ComiRec** |     KDD      | 2020 | DL、Multi Interest |
+|  Sequential recommendation with user memory networks｜MANN   |     WSDM     | 2018 |         MN         |
+| Towards neural mixture recommender for long range dependent user sequences |     WWW      | 2019 |      Mixture       |
+
+&nbsp;
+
+### CTR
 
 |                            Paper                             | Published in | Time |     Category      |
 | :----------------------------------------------------------: | :----------: | :--: | :---------------: |
@@ -58,7 +81,7 @@
 
 &nbsp;
 
-### 精排（多任务）
+### 多任务
 
 |                            Paper                             | Published in | Time |
 | :----------------------------------------------------------: | :----------: | :--: |
@@ -70,7 +93,7 @@
 
 |                            Paper                             | Published in | Time |
 | :----------------------------------------------------------: | :----------: | :--: |
-| Neural Collaborative Filtering vs. Matrix Factorization Revisited |              | 2020 |
+| Neural Collaborative Filtering vs. Matrix Factorization Revisited |    RecSys    | 2020 |
 |      FuxiCTR: An Open Benchmark for Click-Through Rate       |              | 2020 |
 
 &nbsp;
