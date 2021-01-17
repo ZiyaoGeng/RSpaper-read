@@ -1,14 +1,14 @@
-# RS-read
+# RSpaper-read
 
-整理自己阅读过的推荐论文。主要分为三块内容：
+Organize recommended papers that I have read. It is mainly divided into three parts:
 
-1. 综述；
-2. 模型；
-3. 其他；
+1. Review；
+2. Model；
+3. Others；
 
 
 
-## 综述
+## Review
 
 |                            Paper                             | Published in | Author |
 | :----------------------------------------------------------: | :----------: | :----: |
@@ -19,9 +19,9 @@
 
 &nbsp;
 
-## 模型
+## Model
 
-### 召回
+### General
 
 |                            Paper                             | Published in | Time |   Category    |
 | :----------------------------------------------------------: | :----------: | :--: | :-----------: |
@@ -46,7 +46,7 @@
 |    Self-Attentive Sequential Recommendation \| **SASRec**    |     ICDM     | 2018 |   Deep Learning    |
 | STAMP: short-term attention/memory priority model for session-based recommendation｜**STAMP** |     KDD      | 2018 |     Attention      |
 | Next item recommendation with self-attentive metric learning｜**AttRec** |     AAAI     | 2019 |     Attention      |
-| BERT4Rec: Sequential recommendation with bidirectional encoder representations from transformer｜**BERT4Rec** |              | 2019 |     Attention      |
+| BERT4Rec: Sequential recommendation with bidirectional encoder representations from transformer｜**BERT4Rec** |     CIKM     | 2019 |     Attention      |
 | FISSA: fusing item similarity models with self-attention networks for sequential recommendation｜**FISSA** |    RecSys    | 2020 |     Attention      |
 | SSE-PT: Sequential recommendation via personalized transforme｜**SSE-PT** |     KDD      | 2020 |     Attention      |
 | Time Interval Aware Self-Attention for Sequential Recommendation｜**TiSASRec** |     WSDM     | 2020 |      Att+time      |
@@ -55,7 +55,7 @@
 | Multi-Interest Network with Dynamic Routing for Recommendation  at Tmall \| **MIND** |     CIKM     | 2019 | DL、Multi Interest |
 | Controllable Multi-Interest Framework for Recommendation \| **ComiRec** |     KDD      | 2020 | DL、Multi Interest |
 |  Sequential recommendation with user memory networks｜MANN   |     WSDM     | 2018 |         MN         |
-| Towards neural mixture recommender for long range dependent user sequences |     WWW      | 2019 |      Mixture       |
+| Towards neural mixture recommender for long range dependent user sequences\|**M3** |     WWW      | 2019 |      Mixture       |
 
 &nbsp;
 
@@ -66,22 +66,22 @@
 |               Factorization Machines \| **FM**               |     ICDM     | 2010 |      General      |
 | Field-aware Factorization Machines for CTR Prediction｜**FFM** |    RecSys    | 2016 |      General      |
 |    Wide & Deep Learning for Recommender Systems｜**WDL**     |     DLRS     | 2016 |        DL         |
-| Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features \| **Deep Crossing** |     KDD      | 2016 |   Deep Learning   |
-| Product-based Neural Networks for User Response Prediction \| **PNN** |     ICDM     | 2016 |   Deep Learning   |
-|   Deep & Cross Network for Ad Click Predictions \| **DCN**   |    ADKDD     | 2017 |   Deep Learning   |
-| Neural Factorization Machines for Sparse Predictive Analytics \| **NFM** |    SIGIR     | 2018 |   Deep Learning   |
-| Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks \| **AFM** |    IJCAI     | 2017 |   Deep Learning   |
-| DeepFM: A Factorization-Machine based Neural Network for CTR Prediction \| **DeepFM** |    IJCAI     | 2017 |   Deep Learning   |
-| xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems \| **xDeepFM** |     KDD      | 2018 |   Deep Learning   |
-| Deep Interest Network for Click-Through Rate Prediction \| **DIN** |     KDD      | 2018 |   Deep Learning   |
-| Outer Product-based Neural Collaboractive Filtering \| **ONN** |    IJCAI     | 2018 |   Deep Learning   |
+| Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features \| **Deep Crossing** |     KDD      | 2016 |        DL         |
+| Product-based Neural Networks for User Response Prediction \| **PNN** |     ICDM     | 2016 |        DL         |
+|   Deep & Cross Network for Ad Click Predictions \| **DCN**   |    ADKDD     | 2017 |        DL         |
+| Neural Factorization Machines for Sparse Predictive Analytics \| **NFM** |    SIGIR     | 2018 |        DL         |
+| Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks \| **AFM** |    IJCAI     | 2017 |        DL         |
+| DeepFM: A Factorization-Machine based Neural Network for CTR Prediction \| **DeepFM** |    IJCAI     | 2017 |        DL         |
+| xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems \| **xDeepFM** |     KDD      | 2018 |        DL         |
+| Deep Interest Network for Click-Through Rate Prediction \| **DIN** |     KDD      | 2018 |        DL         |
+| Outer Product-based Neural Collaboractive Filtering \| **ONN** |    IJCAI     | 2018 |        DL         |
 | Behavior Sequence Transformer for E-commerce Recommendation in Alibaba \| **BST** |   DLP-KDD    | 2019 |  DL、Transformer  |
 | Deep Interest Evolution Network for Click-Through Rate Prediction ｜ **DIEN** |     AAAI     | 2019 | DL、RNN、Interest |
 | Deep Match to Rank Model for Personalized Click-Through Rate Prediction \| **DMR** |     AAAI     | 2020 |   Deep Learning   |
 
 &nbsp;
 
-### 多任务
+### Multi-Task
 
 |                            Paper                             | Published in | Time |
 | :----------------------------------------------------------: | :----------: | :--: |
@@ -89,7 +89,7 @@
 
 &nbsp;
 
-## 其他
+## Others
 
 |                            Paper                             | Published in | Time |
 | :----------------------------------------------------------: | :----------: | :--: |
@@ -98,10 +98,8 @@
 
 &nbsp;
 
-## 联系方式
+## Contact Details
 
-1、对于项目有任何建议或问题，可以在`Issue`留言，或者可以添加作者微信`zgzjhzgzy`。
-
-2、作者有一个自己的公众号：**推荐算法的小齿轮**，如果喜欢里面的内容，不妨点个关注。
+作者有一个自己的公众号：**推荐算法的小齿轮**，如果喜欢里面的内容，不妨点个关注。
 
 <div align=center><img src="https://cdn.jsdelivr.net/gh/BlackSpaceGZY/cdn/img/weixin.jpg" width="30%"/></div>
