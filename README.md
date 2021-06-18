@@ -1,21 +1,23 @@
 # RSpaper-read
 
-Organize recommended papers that I have read. It is mainly divided into three parts:
+`RSpaper-read`分享一些我读过的经典推荐论文，质量有保障，适合初学者入门。主要分为三部分内容：
 
-1. Review；
-2. Model；
-3. Others；
+1. Review：任何领域入门都少不了综述，推荐的文章包括了基于深度学习的推荐、图学习等；
+2. Model：算法模型肯定是推荐领域的重点，按照不同阶段，再细化分为召回（matching）与排序（ranking）：
+   - matching：召回阶段的模型面临的数据样本是整个物料库，所以它需要在低延时的前提下完成候选物品集的召回给排序阶段；
+   - ranking：排序阶段区别于召回，要求模型更加复杂，重特征之间的交叉，主要的指标是CTR；
+3. Others：推荐中其他的方向或者有趣的内容；
 
 
 
-## Review
+## [Review](./Abstractreview.md)
 
-|                            Paper                             | Published in | Author |
-| :----------------------------------------------------------: | :----------: | :----: |
-|   Deep Learning for Matching in Search and Recommendation    |    SIGIR     |  2018  |
-| Deep Learning Based Recommender System: A Survey and New Perspectives |     ACM      |  2019  |
-|      Learning and Reasoning on Graph for Recommendation      |     CIKM     |  2019  |
-|  Graph Learning Approaches to Recommender Systems: A Review  |              |  2020  |
+|                            Paper                             |     Published in      | Author |
+| :----------------------------------------------------------: | :-------------------: | :----: |
+|   Deep Learning for Matching in Search and Recommendation    |         SIGIR         |  2018  |
+| Deep Learning Based Recommender System: A Survey and New Perspectives | ACM Computing Surveys |  2019  |
+|      Learning and Reasoning on Graph for Recommendation      |         CIKM          |  2019  |
+|  Graph Learning Approaches to Recommender Systems: A Review  |         IJCAI         |  2021  |
 
 &nbsp;
 
