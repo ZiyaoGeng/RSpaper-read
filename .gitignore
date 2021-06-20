@@ -1,6 +1,5 @@
 **/.DS_Store
 ./Paper/**
-.gitignore
 ./Paper/Review/**
 ./Paper/Model/matching/**
 ./Paper/Model/ranking/**
