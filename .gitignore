@@ -1,7 +1,7 @@
 **/.DS_Store
-./Paper/**
-./Paper/Review/**
-./Paper/Model/matching/**
-./Paper/Model/ranking/**
-./Paper/Others/**
-
+**/Paper/**
+**/Paper/Review/**
+**/Paper/Model/matching/**
+**/Paper/Model/ranking/**
+**/Paper/Others/**
+.gitignore
