@@ -135,6 +135,14 @@ Capsules：
 
 &nbsp;
 
+## Download
+
+论文打包地址：
+
+> 链接: https://pan.baidu.com/s/1F15qkIrQ9mVy94bKP-yaJA  密码: l5um
+
+
+
 ## Contact Details
 
 作者有一个自己的公众号：**推荐算法的小齿轮**，如果喜欢里面的内容，不妨点个关注。
