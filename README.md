@@ -95,23 +95,43 @@
 | [9]  | DeepFM: A Factorization-Machine based Neural Network for CTR Prediction \| **DeepFM** |    IJCAI     | 2017 |
 | [10] | xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems \| **xDeepFM** |     KDD      | 2018 |
 | [11] | Deep Interest Network for Click-Through Rate Prediction \| **DIN** |     KDD      | 2018 |
-| [12] | Outer Product-based Neural Collaboractive Filtering \| **ONN** |    IJCAI     | 2018 |
-| [13] | Behavior Sequence Transformer for E-commerce Recommendation in Alibaba \| **BST** |   DLP-KDD    | 2019 |
-| [14] | Deep Interest Evolution Network for Click-Through Rate Prediction ｜ **DIEN** |     AAAI     | 2019 |
-| [15] | Deep Match to Rank Model for Personalized Click-Through Rate Prediction \| **DMR** |     AAAI     | 2020 |
-|      |                           序列推荐                           |              |      |
-| [16] | Sequential recommendation with user memory networks｜**MANN** |     WSDM     | 2018 |
-|      |                            多任务                            |              |      |
-| [17] | Entire Space Multi-Task Model: An Effective Approach for Estimation Post-Click Conversion Rate \| **ESMM** |    SIGIR     | 2018 |
-| [18] | Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts｜**MMOE** |     KDD      | 2018 |
+| [12] | Behavior Sequence Transformer for E-commerce Recommendation in Alibaba \| **BST** |   DLP-KDD    | 2019 |
+| [13] | Deep Interest Evolution Network for Click-Through Rate Prediction ｜ **DIEN** |     AAAI     | 2019 |
+| [14] | Deep Match to Rank Model for Personalized Click-Through Rate Prediction \| **DMR** |     AAAI     | 2020 |
 
-
-
-## Others
+序列推荐：
 
 |      |                            Paper                             | Published in | Time |
-| ---- | :----------------------------------------------------------: | :----------: | :--: |
+| :--: | :----------------------------------------------------------: | :----------: | :--: |
+| [15] | Sequential recommendation with user memory networks｜**MANN** |     WSDM     | 2018 |
+
+多任务：
+
+|      |                            Paper                             | Published in | Time |
+| :--: | :----------------------------------------------------------: | :----------: | :--: |
+| [16] | Entire Space Multi-Task Model: An Effective Approach for Estimation Post-Click Conversion Rate \| **ESMM** |    SIGIR     | 2018 |
+| [17] | Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts｜**MMOE** |     KDD      | 2018 |
+
+&nbsp;
+
+## [Others](./Abstract/others.md)
+
+|      |                            Paper                             | Published in | Time |
+| :--: | :----------------------------------------------------------: | :----------: | :--: |
 | [1]  | Neural Collaborative Filtering vs. Matrix Factorization Revisited |    RecSys    | 2020 |
+
+树模型，XGB、LGB：
+
+|      |                           Paper                            | Published in | Time |
+| :--: | :--------------------------------------------------------: | :----------: | :--: |
+| [2]  |          XGBoost: A Scalable Tree Boosting System          |     KDD      | 2016 |
+| [3]  | LightGBM: A Highly Eﬃcient Gradient Boosting Decision Tree |     NIPS     | 2017 |
+
+Capsules：
+
+|      |              Paper               | Published in | Time |
+| :--: | :------------------------------: | :----------: | :--: |
+| [4]  | Dynamic Routing Between Capsules |     NIPS     | 2017 |
 
 &nbsp;
 
