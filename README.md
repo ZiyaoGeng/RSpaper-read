@@ -135,12 +135,6 @@ Capsules：
 
 &nbsp;
 
-## Download
-
-论文打包地址：
-
-> 链接: https://pan.baidu.com/s/1WnWXhLICr-9iDU-FdG23Xw  密码: pwkp
-
 
 
 ## Contact Details
